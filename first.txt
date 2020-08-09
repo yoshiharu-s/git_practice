@@ -5,3 +5,6 @@ aiutokjfadfajdfkadjfa
 ・git commit
 aierer
 dd
+add comment
+select * from table;
+
